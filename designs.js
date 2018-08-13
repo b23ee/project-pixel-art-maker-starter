@@ -46,11 +46,6 @@ document.querySelector('#sizePicker').addEventListener('submit', function(evt) {
 	makeGrid();
 });
 
-//event listener for selected background color in <td>
-document.querySelector('#colorPicker').addEventListener('click', function(evt) {
-	//gridColor.setAttribute('value');
-	console.log('the value = ' + gridColor.value);
-});
 
 
 
