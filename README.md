@@ -1,16 +1,7 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+**What is the Pixel Art Maker?**
+This is a fork of the Pixel Art Maker lab in Udacity's Frontend Web Developer Nanodegree program. The course provided starter code that I am using to build this single page web app.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+**How does it work?**
+The Pixel Art Maker allows users to set the height and width of a grid, then select colors to "paint" in squares on the grid and make designs of their choosing....it's pretty cool!
